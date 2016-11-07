@@ -104,7 +104,8 @@ function dealWithFile() {
           });
         });
       }
-    }(i);
+      3m675dtofhs3vgvclkxu
+    }();
   }
 
   // delay 2000ms to make sure that async operations have been done
@@ -123,7 +124,7 @@ let DIFFICULT = {
 function makeRequest() {
   superagent
     .get("https://leetcode.com/api/problems/algorithms/")
-    .set("Cookie", "PHPSESSID=vjvxp1uh5hko3m675dtofhs3vgvclkxu;csrftoken=aaj4UoDmY5tMkKtcYXJuhHF00Vv5sCq1")  // for logining in
+    .set("Cookie", "PHPSESSID=36vqr8t9pyfff6e9ma5m3fhdxy5v5vtk;csrftoken=aaj4UoDmY5tMkKtcYXJuhHF00Vv5sCq1")  // for logining in
     .end(function(err, res) {
         console.log('getdata');
 
