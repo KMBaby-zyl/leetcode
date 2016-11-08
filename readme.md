@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Fri Nov 04 2016 13:59:28 GMT+0800 (CST)
+Update time: Tue Nov 08 2016 10:40:46 GMT+0800 (CST)
 
-I have solved **7 / 417** problems while there are **77** problems still locked.
+I have solved **12 / 421** problems while there are **77** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -18,11 +18,11 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 42 | [Trapping Rain Water](https://leetcode.com/protrapping-rain-water) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Trapping%20Rain%20Water/index.js) | | Hard |
 | 38 | [Count and Say](https://leetcode.com/procount-and-say) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Count%20and%20Say/index.js) | | Easy |
 | 7 | [Reverse Integer](https://leetcode.com/proreverse-integer) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Reverse%20Integer/index.js) | | Easy |
-| 1 | [Two Sum](https://leetcode.com/protwo-sum) | | | Easy |
-| 2 | [Add Two Numbers](https://leetcode.com/proadd-two-numbers) | | | Medium |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/prolongest-substring-without-repeating-characters) | | | Medium |
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/promedian-of-two-sorted-arrays) | | | Hard |
-| 5 | [Longest Palindromic Substring](https://leetcode.com/prolongest-palindromic-substring) | | | Medium |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/prolongest-palindromic-substring) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Longest%20Palindromic%20Substring/index.js) | | Medium |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/promedian-of-two-sorted-arrays) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Median%20of%20Two%20Sorted%20Arrays/index.js) | | Hard |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/prolongest-substring-without-repeating-characters) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Longest%20Substring%20Without%20Repeating%20Characters/index.js) | | Medium |
+| 2 | [Add Two Numbers](https://leetcode.com/proadd-two-numbers) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Add%20Two%20Numbers/index.js) | | Medium |
+| 1 | [Two Sum](https://leetcode.com/protwo-sum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Two%20Sum/index.js) | | Easy |
 | 6 | [ZigZag Conversion](https://leetcode.com/prozigzag-conversion) | | | Easy |
 | 8 | [String to Integer (atoi)](https://leetcode.com/prostring-to-integer-atoi) | | | Easy |
 | 9 | [Palindrome Number](https://leetcode.com/propalindrome-number) | | | Easy |
@@ -428,3 +428,7 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/prok-th-smallest-in-lexicographical-order) | | | Hard |
 | 441 | [Arranging Coins](https://leetcode.com/proarranging-coins) | | | Easy |
 | 444 | [Sequence Reconstruction](https://leetcode.com/prosequence-reconstruction) | :blue_book: | | Medium |
+| 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/proarithmetic-slices-ii-subsequence) | | | Hard |
+| 447 | [Number of Boomerangs](https://leetcode.com/pronumber-of-boomerangs) | | | Easy |
+| 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/prominimum-number-of-arrows-to-burst-balloons) | | | Medium |
+| 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/prominimum-moves-to-equal-array-elements) | | | Easy |

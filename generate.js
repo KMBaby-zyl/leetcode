@@ -82,6 +82,7 @@ function dealWithFile() {
   var baseLocalSrc = "./Algorithms/";
   var baseNetSrc = "https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/";
 
+
   for (var i = 0, len = ans.length; i < len; i++) {
     !function(i) {
       var p = ans[i];
@@ -104,8 +105,7 @@ function dealWithFile() {
           });
         });
       }
-      3m675dtofhs3vgvclkxu
-    }();
+    }(i);
   }
 
   // delay 2000ms to make sure that async operations have been done
@@ -124,7 +124,7 @@ let DIFFICULT = {
 function makeRequest() {
   superagent
     .get("https://leetcode.com/api/problems/algorithms/")
-    .set("Cookie", "PHPSESSID=36vqr8t9pyfff6e9ma5m3fhdxy5v5vtk;csrftoken=aaj4UoDmY5tMkKtcYXJuhHF00Vv5sCq1")  // for logining in
+    .set("Cookie", "PHPSESSID=36vqr8t9pyfff6e9ma5m3fhdxy5v5vtk")  // for logining in
     .end(function(err, res) {
         console.log('getdata');
 
@@ -150,7 +150,6 @@ function makeRequest() {
                 ans.push(obj);
             }
         })
-      
 
        console.log(problemNum, solvedNum, lockedNum)
        dealWithFile();
