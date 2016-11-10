@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Tue Nov 08 2016 10:40:46 GMT+0800 (CST)
+Update time: Thu Nov 10 2016 10:34:31 GMT+0800 (CST)
 
-I have solved **12 / 421** problems while there are **77** problems still locked.
+I have solved **16 / 421** problems while there are **77** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -17,16 +17,16 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 50 | [Pow(x, n)](https://leetcode.com/propowx-n) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Pow(x,%20n)/index.js) | | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/protrapping-rain-water) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Trapping%20Rain%20Water/index.js) | | Hard |
 | 38 | [Count and Say](https://leetcode.com/procount-and-say) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Count%20and%20Say/index.js) | | Easy |
+| 10 | [Regular Expression Matching](https://leetcode.com/proregular-expression-matching) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Regular%20Expression%20Matching/index.js) | | Hard |
+| 9 | [Palindrome Number](https://leetcode.com/propalindrome-number) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Palindrome%20Number/index.js) | | Easy |
+| 8 | [String to Integer (atoi)](https://leetcode.com/prostring-to-integer-atoi) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/String%20to%20Integer%20(atoi)/index.js) | | Easy |
 | 7 | [Reverse Integer](https://leetcode.com/proreverse-integer) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Reverse%20Integer/index.js) | | Easy |
+| 6 | [ZigZag Conversion](https://leetcode.com/prozigzag-conversion) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/ZigZag%20Conversion/index.js) | | Easy |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/prolongest-palindromic-substring) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Longest%20Palindromic%20Substring/index.js) | | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/promedian-of-two-sorted-arrays) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Median%20of%20Two%20Sorted%20Arrays/index.js) | | Hard |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/prolongest-substring-without-repeating-characters) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Longest%20Substring%20Without%20Repeating%20Characters/index.js) | | Medium |
 | 2 | [Add Two Numbers](https://leetcode.com/proadd-two-numbers) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Add%20Two%20Numbers/index.js) | | Medium |
 | 1 | [Two Sum](https://leetcode.com/protwo-sum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Two%20Sum/index.js) | | Easy |
-| 6 | [ZigZag Conversion](https://leetcode.com/prozigzag-conversion) | | | Easy |
-| 8 | [String to Integer (atoi)](https://leetcode.com/prostring-to-integer-atoi) | | | Easy |
-| 9 | [Palindrome Number](https://leetcode.com/propalindrome-number) | | | Easy |
-| 10 | [Regular Expression Matching](https://leetcode.com/proregular-expression-matching) | | | Hard |
 | 11 | [Container With Most Water](https://leetcode.com/procontainer-with-most-water) | | | Medium |
 | 12 | [Integer to Roman](https://leetcode.com/prointeger-to-roman) | | | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/proroman-to-integer) | | | Easy |
