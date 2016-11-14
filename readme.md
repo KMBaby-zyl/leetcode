@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Mon Nov 14 2016 18:00:57 GMT+0800 (CST)
+Update time: Mon Nov 14 2016 19:02:33 GMT+0800 (CST)
 
-I have solved **24 / 421** problems while there are **77** problems still locked.
+I have solved **27 / 421** problems while there are **77** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -17,6 +17,9 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 50 | [Pow(x, n)](https://leetcode.com/propowx-n) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Pow(x,%20n)/index.js) | | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/protrapping-rain-water) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Trapping%20Rain%20Water/index.js) | | Hard |
 | 38 | [Count and Say](https://leetcode.com/procount-and-say) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Count%20and%20Say/index.js) | | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/promerge-two-sorted-lists) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Merge%20Two%20Sorted%20Lists/index.js) | | Easy |
+| 20 | [Valid Parentheses](https://leetcode.com/provalid-parentheses) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Valid%20Parentheses/index.js) | | Easy |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/proremove-nth-node-from-end-of-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Remove%20Nth%20Node%20From%20End%20of%20List/index.js) | | Easy |
 | 18 | [4Sum](https://leetcode.com/pro4sum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/4Sum/index.js) | | Medium |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/proletter-combinations-of-a-phone-number) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Letter%20Combinations%20of%20a%20Phone%20Number/index.js) | | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/pro3sum-closest) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/3Sum%20Closest/index.js) | | Medium |
@@ -35,9 +38,6 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/prolongest-substring-without-repeating-characters) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Longest%20Substring%20Without%20Repeating%20Characters/index.js) | | Medium |
 | 2 | [Add Two Numbers](https://leetcode.com/proadd-two-numbers) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Add%20Two%20Numbers/index.js) | | Medium |
 | 1 | [Two Sum](https://leetcode.com/protwo-sum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Two%20Sum/index.js) | | Easy |
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/proremove-nth-node-from-end-of-list) | | | Easy |
-| 20 | [Valid Parentheses](https://leetcode.com/provalid-parentheses) | | | Easy |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/promerge-two-sorted-lists) | | | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/progenerate-parentheses) | | | Medium |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/promerge-k-sorted-lists) | | | Hard |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/proswap-nodes-in-pairs) | | | Easy |
