@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Fri Nov 11 2016 10:20:47 GMT+0800 (CST)
+Update time: Mon Nov 14 2016 18:00:57 GMT+0800 (CST)
 
-I have solved **19 / 421** problems while there are **77** problems still locked.
+I have solved **24 / 421** problems while there are **77** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -17,6 +17,11 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 50 | [Pow(x, n)](https://leetcode.com/propowx-n) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Pow(x,%20n)/index.js) | | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/protrapping-rain-water) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Trapping%20Rain%20Water/index.js) | | Hard |
 | 38 | [Count and Say](https://leetcode.com/procount-and-say) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Count%20and%20Say/index.js) | | Easy |
+| 18 | [4Sum](https://leetcode.com/pro4sum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/4Sum/index.js) | | Medium |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/proletter-combinations-of-a-phone-number) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Letter%20Combinations%20of%20a%20Phone%20Number/index.js) | | Medium |
+| 16 | [3Sum Closest](https://leetcode.com/pro3sum-closest) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/3Sum%20Closest/index.js) | | Medium |
+| 15 | [3Sum](https://leetcode.com/pro3sum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/3Sum/index.js) | | Medium |
+| 14 | [Longest Common Prefix](https://leetcode.com/prolongest-common-prefix) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Longest%20Common%20Prefix/index.js) | | Easy |
 | 13 | [Roman to Integer](https://leetcode.com/proroman-to-integer) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Roman%20to%20Integer/index.js) | | Easy |
 | 12 | [Integer to Roman](https://leetcode.com/prointeger-to-roman) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Integer%20to%20Roman/index.js) | | Medium |
 | 11 | [Container With Most Water](https://leetcode.com/procontainer-with-most-water) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Container%20With%20Most%20Water/index.js) | | Medium |
@@ -30,11 +35,6 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/prolongest-substring-without-repeating-characters) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Longest%20Substring%20Without%20Repeating%20Characters/index.js) | | Medium |
 | 2 | [Add Two Numbers](https://leetcode.com/proadd-two-numbers) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Add%20Two%20Numbers/index.js) | | Medium |
 | 1 | [Two Sum](https://leetcode.com/protwo-sum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Two%20Sum/index.js) | | Easy |
-| 14 | [Longest Common Prefix](https://leetcode.com/prolongest-common-prefix) | | | Easy |
-| 15 | [3Sum](https://leetcode.com/pro3sum) | | | Medium |
-| 16 | [3Sum Closest](https://leetcode.com/pro3sum-closest) | | | Medium |
-| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/proletter-combinations-of-a-phone-number) | | | Medium |
-| 18 | [4Sum](https://leetcode.com/pro4sum) | | | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/proremove-nth-node-from-end-of-list) | | | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/provalid-parentheses) | | | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/promerge-two-sorted-lists) | | | Easy |
