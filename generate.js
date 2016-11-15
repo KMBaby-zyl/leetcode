@@ -124,7 +124,7 @@ let DIFFICULT = {
 function makeRequest() {
   superagent
     .get("https://leetcode.com/api/problems/algorithms/")
-    .set("Cookie", "PHPSESSID=401k3mnq8xaq3s8zw0pby4vmjn91ljwc")  // for logining in
+    .set("Cookie", "PHPSESSID=bwln3ei38oo8lbez3oubt8os8jd5xmwv")  // for logining in
     .end(function(err, res) {
         console.log('getdata');
 

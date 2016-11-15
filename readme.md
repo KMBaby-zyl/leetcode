@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Mon Nov 14 2016 19:02:33 GMT+0800 (CST)
+Update time: Tue Nov 15 2016 18:32:08 GMT+0800 (CST)
 
-I have solved **27 / 421** problems while there are **77** problems still locked.
+I have solved **34 / 421** problems while there are **77** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -17,6 +17,13 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 50 | [Pow(x, n)](https://leetcode.com/propowx-n) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Pow(x,%20n)/index.js) | | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/protrapping-rain-water) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Trapping%20Rain%20Water/index.js) | | Hard |
 | 38 | [Count and Say](https://leetcode.com/procount-and-say) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Count%20and%20Say/index.js) | | Easy |
+| 28 | [Implement strStr()](https://leetcode.com/proimplement-strstr) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Implement%20strStr()/index.js) | | Easy |
+| 27 | [Remove Element](https://leetcode.com/proremove-element) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Remove%20Element/index.js) | | Easy |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/proremove-duplicates-from-sorted-array) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20Array/quick.js) | | Easy |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/proreverse-nodes-in-k-group) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Reverse%20Nodes%20in%20k-Group/index.js) | | Hard |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/proswap-nodes-in-pairs) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Swap%20Nodes%20in%20Pairs/index.js) | | Easy |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/promerge-k-sorted-lists) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Merge%20k%20Sorted%20Lists/index.js) | | Hard |
+| 22 | [Generate Parentheses](https://leetcode.com/progenerate-parentheses) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Generate%20Parentheses/index.js) | | Medium |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/promerge-two-sorted-lists) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Merge%20Two%20Sorted%20Lists/index.js) | | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/provalid-parentheses) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Valid%20Parentheses/index.js) | | Easy |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/proremove-nth-node-from-end-of-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Remove%20Nth%20Node%20From%20End%20of%20List/index.js) | | Easy |
@@ -38,13 +45,6 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/prolongest-substring-without-repeating-characters) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Longest%20Substring%20Without%20Repeating%20Characters/index.js) | | Medium |
 | 2 | [Add Two Numbers](https://leetcode.com/proadd-two-numbers) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Add%20Two%20Numbers/index.js) | | Medium |
 | 1 | [Two Sum](https://leetcode.com/protwo-sum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Two%20Sum/index.js) | | Easy |
-| 22 | [Generate Parentheses](https://leetcode.com/progenerate-parentheses) | | | Medium |
-| 23 | [Merge k Sorted Lists](https://leetcode.com/promerge-k-sorted-lists) | | | Hard |
-| 24 | [Swap Nodes in Pairs](https://leetcode.com/proswap-nodes-in-pairs) | | | Easy |
-| 25 | [Reverse Nodes in k-Group](https://leetcode.com/proreverse-nodes-in-k-group) | | | Hard |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/proremove-duplicates-from-sorted-array) | | | Easy |
-| 27 | [Remove Element](https://leetcode.com/proremove-element) | | | Easy |
-| 28 | [Implement strStr()](https://leetcode.com/proimplement-strstr) | | | Easy |
 | 29 | [Divide Two Integers](https://leetcode.com/prodivide-two-integers) | | | Medium |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/prosubstring-with-concatenation-of-all-words) | | | Hard |
 | 31 | [Next Permutation](https://leetcode.com/pronext-permutation) | | | Medium |
