@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Sun Nov 20 2016 18:30:47 GMT+0800 (CST)
+Update time: Sun Nov 20 2016 18:46:54 GMT+0800 (CST)
 
-I have solved **48 / 429** problems while there are **78** problems still locked.
+I have solved **50 / 429** problems while there are **78** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -15,6 +15,8 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 278 | [First Bad Version](https://leetcode.com/profirst-bad-version) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Bad%20Version/index.js) | | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/probinary-tree-paths) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/index.js) | | Easy |
 | 50 | [Pow(x, n)](https://leetcode.com/propowx-n) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Pow(x,%20n)/index.js) | | Medium |
+| 49 | [Group Anagrams](https://leetcode.com/proanagrams) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Group%20Anagrams/index.js) | | Medium |
+| 48 | [Rotate Image](https://leetcode.com/prorotate-image) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Rotate%20Image/index.js) | | Medium |
 | 47 | [Permutations II](https://leetcode.com/propermutations-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Permutations%20II/index.js) | | Medium |
 | 46 | [Permutations](https://leetcode.com/propermutations) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Permutations/index.js) | | Medium |
 | 45 | [Jump Game II](https://leetcode.com/projump-game-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Jump%20Game%20II/index.js) | | Hard |
@@ -62,8 +64,6 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/prosubstring-with-concatenation-of-all-words) | | | Hard |
 | 37 | [Sudoku Solver](https://leetcode.com/prosudoku-solver) | | | Hard |
 | 44 | [Wildcard Matching](https://leetcode.com/prowildcard-matching) | | | Hard |
-| 48 | [Rotate Image](https://leetcode.com/prorotate-image) | | | Medium |
-| 49 | [Group Anagrams](https://leetcode.com/proanagrams) | | | Medium |
 | 51 | [N-Queens](https://leetcode.com/pron-queens) | | | Hard |
 | 52 | [N-Queens II](https://leetcode.com/pron-queens-ii) | | | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/promaximum-subarray) | | | Medium |
