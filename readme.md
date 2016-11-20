@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Tue Nov 15 2016 18:32:08 GMT+0800 (CST)
+Update time: Sun Nov 20 2016 18:30:47 GMT+0800 (CST)
 
-I have solved **34 / 421** problems while there are **77** problems still locked.
+I have solved **48 / 429** problems while there are **78** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -15,8 +15,22 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 278 | [First Bad Version](https://leetcode.com/profirst-bad-version) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Bad%20Version/index.js) | | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/probinary-tree-paths) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/index.js) | | Easy |
 | 50 | [Pow(x, n)](https://leetcode.com/propowx-n) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Pow(x,%20n)/index.js) | | Medium |
+| 47 | [Permutations II](https://leetcode.com/propermutations-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Permutations%20II/index.js) | | Medium |
+| 46 | [Permutations](https://leetcode.com/propermutations) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Permutations/index.js) | | Medium |
+| 45 | [Jump Game II](https://leetcode.com/projump-game-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Jump%20Game%20II/index.js) | | Hard |
+| 43 | [Multiply Strings](https://leetcode.com/promultiply-strings) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Multiply%20Strings/index.js) | | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/protrapping-rain-water) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Trapping%20Rain%20Water/index.js) | | Hard |
+| 41 | [First Missing Positive](https://leetcode.com/profirst-missing-positive) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Missing%20Positive/index.js) | | Hard |
+| 40 | [Combination Sum II](https://leetcode.com/procombination-sum-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Combination%20Sum%20II/index.js) | | Medium |
+| 39 | [Combination Sum](https://leetcode.com/procombination-sum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Combination%20Sum/index.js) | | Medium |
 | 38 | [Count and Say](https://leetcode.com/procount-and-say) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Count%20and%20Say/index.js) | | Easy |
+| 36 | [Valid Sudoku](https://leetcode.com/provalid-sudoku) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Valid%20Sudoku/index.js) | | Easy |
+| 35 | [Search Insert Position](https://leetcode.com/prosearch-insert-position) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Search%20Insert%20Position/index.js) | | Medium |
+| 34 | [Search for a Range](https://leetcode.com/prosearch-for-a-range) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Search%20for%20a%20Range/index.js) | | Medium |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/prosearch-in-rotated-sorted-array) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Search%20in%20Rotated%20Sorted%20Array/index.js) | | Hard |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/prolongest-valid-parentheses) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Longest%20Valid%20Parentheses/index.js) | | Hard |
+| 31 | [Next Permutation](https://leetcode.com/pronext-permutation) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Next%20Permutation/index.js) | | Medium |
+| 29 | [Divide Two Integers](https://leetcode.com/prodivide-two-integers) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Divide%20Two%20Integers/index.js) | | Medium |
 | 28 | [Implement strStr()](https://leetcode.com/proimplement-strstr) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Implement%20strStr()/index.js) | | Easy |
 | 27 | [Remove Element](https://leetcode.com/proremove-element) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Remove%20Element/index.js) | | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/proremove-duplicates-from-sorted-array) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20Array/quick.js) | | Easy |
@@ -45,23 +59,9 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/prolongest-substring-without-repeating-characters) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Longest%20Substring%20Without%20Repeating%20Characters/index.js) | | Medium |
 | 2 | [Add Two Numbers](https://leetcode.com/proadd-two-numbers) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Add%20Two%20Numbers/index.js) | | Medium |
 | 1 | [Two Sum](https://leetcode.com/protwo-sum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Two%20Sum/index.js) | | Easy |
-| 29 | [Divide Two Integers](https://leetcode.com/prodivide-two-integers) | | | Medium |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/prosubstring-with-concatenation-of-all-words) | | | Hard |
-| 31 | [Next Permutation](https://leetcode.com/pronext-permutation) | | | Medium |
-| 32 | [Longest Valid Parentheses](https://leetcode.com/prolongest-valid-parentheses) | | | Hard |
-| 33 | [Search in Rotated Sorted Array](https://leetcode.com/prosearch-in-rotated-sorted-array) | | | Hard |
-| 34 | [Search for a Range](https://leetcode.com/prosearch-for-a-range) | | | Medium |
-| 35 | [Search Insert Position](https://leetcode.com/prosearch-insert-position) | | | Medium |
-| 36 | [Valid Sudoku](https://leetcode.com/provalid-sudoku) | | | Easy |
 | 37 | [Sudoku Solver](https://leetcode.com/prosudoku-solver) | | | Hard |
-| 39 | [Combination Sum](https://leetcode.com/procombination-sum) | | | Medium |
-| 40 | [Combination Sum II](https://leetcode.com/procombination-sum-ii) | | | Medium |
-| 41 | [First Missing Positive](https://leetcode.com/profirst-missing-positive) | | | Hard |
-| 43 | [Multiply Strings](https://leetcode.com/promultiply-strings) | | | Medium |
 | 44 | [Wildcard Matching](https://leetcode.com/prowildcard-matching) | | | Hard |
-| 45 | [Jump Game II](https://leetcode.com/projump-game-ii) | | | Hard |
-| 46 | [Permutations](https://leetcode.com/propermutations) | | | Medium |
-| 47 | [Permutations II](https://leetcode.com/propermutations-ii) | | | Medium |
 | 48 | [Rotate Image](https://leetcode.com/prorotate-image) | | | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/proanagrams) | | | Medium |
 | 51 | [N-Queens](https://leetcode.com/pron-queens) | | | Hard |
@@ -432,3 +432,11 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 447 | [Number of Boomerangs](https://leetcode.com/pronumber-of-boomerangs) | | | Easy |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/prominimum-number-of-arrows-to-burst-balloons) | | | Medium |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/prominimum-moves-to-equal-array-elements) | | | Easy |
+| 454 | [4Sum II](https://leetcode.com/pro4sum-ii) | | | Medium |
+| 455 | [Assign Cookies](https://leetcode.com/proassign-cookies) | | | Easy |
+| 456 | [132 Pattern](https://leetcode.com/pro132-pattern) | | | Medium |
+| 459 | [Repeated Substring Pattern](https://leetcode.com/prorepeated-substring-pattern) | | | Easy |
+| 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/prominimum-moves-to-equal-array-elements-ii) | | | Medium |
+| 463 | [Island Perimeter](https://leetcode.com/proisland-perimeter) | | | Easy |
+| 464 | [Can I Win](https://leetcode.com/procan-i-win) | | | Medium |
+| 465 | [Optimal Account Balancing](https://leetcode.com/prooptimal-account-balancing) | :blue_book: | | Hard |
