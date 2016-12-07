@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Sun Nov 20 2016 18:46:54 GMT+0800 (CST)
+Update time: Wed Dec 07 2016 20:10:58 GMT+0800 (CST)
 
-I have solved **50 / 429** problems while there are **78** problems still locked.
+I have solved **53 / 433** problems while there are **79** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -14,6 +14,9 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 279 | [Perfect Squares](https://leetcode.com/properfect-squares) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Perfect%20Squares/index.js) | | Medium |
 | 278 | [First Bad Version](https://leetcode.com/profirst-bad-version) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Bad%20Version/index.js) | | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/probinary-tree-paths) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/index.js) | | Easy |
+| 55 | [Jump Game](https://leetcode.com/projump-game) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Jump%20Game/index.js) | | Medium |
+| 54 | [Spiral Matrix](https://leetcode.com/prospiral-matrix) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Spiral%20Matrix/index.js) | | Medium |
+| 53 | [Maximum Subarray](https://leetcode.com/promaximum-subarray) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Maximum%20Subarray/index.js) | | Medium |
 | 50 | [Pow(x, n)](https://leetcode.com/propowx-n) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Pow(x,%20n)/index.js) | | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/proanagrams) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Group%20Anagrams/index.js) | | Medium |
 | 48 | [Rotate Image](https://leetcode.com/prorotate-image) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Rotate%20Image/index.js) | | Medium |
@@ -66,9 +69,6 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 44 | [Wildcard Matching](https://leetcode.com/prowildcard-matching) | | | Hard |
 | 51 | [N-Queens](https://leetcode.com/pron-queens) | | | Hard |
 | 52 | [N-Queens II](https://leetcode.com/pron-queens-ii) | | | Hard |
-| 53 | [Maximum Subarray](https://leetcode.com/promaximum-subarray) | | | Medium |
-| 54 | [Spiral Matrix](https://leetcode.com/prospiral-matrix) | | | Medium |
-| 55 | [Jump Game](https://leetcode.com/projump-game) | | | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/promerge-intervals) | | | Hard |
 | 57 | [Insert Interval](https://leetcode.com/proinsert-interval) | | | Hard |
 | 58 | [Length of Last Word](https://leetcode.com/prolength-of-last-word) | | | Easy |
@@ -420,6 +420,7 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/prolongest-repeating-character-replacement) | | | Medium |
 | 425 | [Word Squares](https://leetcode.com/proword-squares) | :blue_book: | | Hard |
 | 432 | [All O`one Data Structure](https://leetcode.com/proall-oone-data-structure) | | | Hard |
+| 434 | [Number of Segments in a String](https://leetcode.com/pronumber-of-segments-in-a-string) | | | Easy |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/pronon-overlapping-intervals) | | | Medium |
 | 436 | [Find Right Interval](https://leetcode.com/profind-right-interval) | | | Medium |
 | 437 | [Path Sum III](https://leetcode.com/propath-sum-iii) | | | Easy |
@@ -440,3 +441,6 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 463 | [Island Perimeter](https://leetcode.com/proisland-perimeter) | | | Easy |
 | 464 | [Can I Win](https://leetcode.com/procan-i-win) | | | Medium |
 | 465 | [Optimal Account Balancing](https://leetcode.com/prooptimal-account-balancing) | :blue_book: | | Hard |
+| 466 | [Count The Repetitions](https://leetcode.com/procount-the-repetitions) | | | Hard |
+| 467 | [Unique Substrings in Wraparound String](https://leetcode.com/prounique-substrings-in-wraparound-string) | | | Medium |
+| 469 | [Convex Polygon](https://leetcode.com/proconvex-polygon) | :blue_book: | | Medium |
