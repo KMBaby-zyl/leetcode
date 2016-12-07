@@ -115,7 +115,7 @@ function dealWithFile() {
   }, 2000);
 }
 
-let DIFFICULT = {
+var DIFFICULT = {
     1: 'Easy',
     2: 'Medium',
     3: 'Hard'
@@ -124,11 +124,11 @@ let DIFFICULT = {
 function makeRequest() {
   superagent
     .get("https://leetcode.com/api/problems/algorithms/")
-    .set("Cookie", "PHPSESSID=bwln3ei38oo8lbez3oubt8os8jd5xmwv")  // for logining in
+    .set("Cookie", "PHPSESSID=jfkyl9xgfz3ejfc57arnxr3pu5shcj9z")  // for logining in
     .end(function(err, res) {
         console.log('getdata');
 
-        let resJson = JSON.parse(res.text);
+        var resJson = JSON.parse(res.text);
         
         solvedNum = resJson.num_solved;
         problemNum = resJson.num_total;
