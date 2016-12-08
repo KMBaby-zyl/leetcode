@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Wed Dec 07 2016 20:10:58 GMT+0800 (CST)
+Update time: Thu Dec 08 2016 18:33:45 GMT+0800 (CST)
 
-I have solved **53 / 433** problems while there are **79** problems still locked.
+I have solved **55 / 433** problems while there are **79** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -14,6 +14,8 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 279 | [Perfect Squares](https://leetcode.com/properfect-squares) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Perfect%20Squares/index.js) | | Medium |
 | 278 | [First Bad Version](https://leetcode.com/profirst-bad-version) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Bad%20Version/index.js) | | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/probinary-tree-paths) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/index.js) | | Easy |
+| 57 | [Insert Interval](https://leetcode.com/proinsert-interval) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Insert%20Interval/index.js) | | Hard |
+| 56 | [Merge Intervals](https://leetcode.com/promerge-intervals) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Merge%20Intervals/index.js) | | Hard |
 | 55 | [Jump Game](https://leetcode.com/projump-game) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Jump%20Game/index.js) | | Medium |
 | 54 | [Spiral Matrix](https://leetcode.com/prospiral-matrix) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Spiral%20Matrix/index.js) | | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/promaximum-subarray) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Maximum%20Subarray/index.js) | | Medium |
@@ -69,8 +71,6 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 44 | [Wildcard Matching](https://leetcode.com/prowildcard-matching) | | | Hard |
 | 51 | [N-Queens](https://leetcode.com/pron-queens) | | | Hard |
 | 52 | [N-Queens II](https://leetcode.com/pron-queens-ii) | | | Hard |
-| 56 | [Merge Intervals](https://leetcode.com/promerge-intervals) | | | Hard |
-| 57 | [Insert Interval](https://leetcode.com/proinsert-interval) | | | Hard |
 | 58 | [Length of Last Word](https://leetcode.com/prolength-of-last-word) | | | Easy |
 | 59 | [Spiral Matrix II](https://leetcode.com/prospiral-matrix-ii) | | | Medium |
 | 60 | [Permutation Sequence](https://leetcode.com/propermutation-sequence) | | | Medium |
