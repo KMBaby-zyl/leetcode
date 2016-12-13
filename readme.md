@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Thu Dec 08 2016 18:33:45 GMT+0800 (CST)
+Update time: Tue Dec 13 2016 18:11:50 GMT+0800 (CST)
 
-I have solved **55 / 433** problems while there are **79** problems still locked.
+I have solved **59 / 438** problems while there are **80** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -14,6 +14,10 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 279 | [Perfect Squares](https://leetcode.com/properfect-squares) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Perfect%20Squares/index.js) | | Medium |
 | 278 | [First Bad Version](https://leetcode.com/profirst-bad-version) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Bad%20Version/index.js) | | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/probinary-tree-paths) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/index.js) | | Easy |
+| 62 | [Unique Paths](https://leetcode.com/prounique-paths) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Unique%20Paths/index.js) | [Explaination](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Unique%20Paths/readme.md) | Medium |
+| 61 | [Rotate List](https://leetcode.com/prorotate-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Rotate%20List/index.js) | | Medium |
+| 60 | [Permutation Sequence](https://leetcode.com/propermutation-sequence) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Permutation%20Sequence/index.js) | | Medium |
+| 58 | [Length of Last Word](https://leetcode.com/prolength-of-last-word) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Length%20of%20Last%20Word/index.js) | | Easy |
 | 57 | [Insert Interval](https://leetcode.com/proinsert-interval) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Insert%20Interval/index.js) | | Hard |
 | 56 | [Merge Intervals](https://leetcode.com/promerge-intervals) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Merge%20Intervals/index.js) | | Hard |
 | 55 | [Jump Game](https://leetcode.com/projump-game) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Jump%20Game/index.js) | | Medium |
@@ -71,11 +75,7 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 44 | [Wildcard Matching](https://leetcode.com/prowildcard-matching) | | | Hard |
 | 51 | [N-Queens](https://leetcode.com/pron-queens) | | | Hard |
 | 52 | [N-Queens II](https://leetcode.com/pron-queens-ii) | | | Hard |
-| 58 | [Length of Last Word](https://leetcode.com/prolength-of-last-word) | | | Easy |
 | 59 | [Spiral Matrix II](https://leetcode.com/prospiral-matrix-ii) | | | Medium |
-| 60 | [Permutation Sequence](https://leetcode.com/propermutation-sequence) | | | Medium |
-| 61 | [Rotate List](https://leetcode.com/prorotate-list) | | | Medium |
-| 62 | [Unique Paths](https://leetcode.com/prounique-paths) | | | Medium |
 | 63 | [Unique Paths II](https://leetcode.com/prounique-paths-ii) | | | Medium |
 | 64 | [Minimum Path Sum](https://leetcode.com/prominimum-path-sum) | | | Medium |
 | 65 | [Valid Number](https://leetcode.com/provalid-number) | | | Hard |
@@ -443,4 +443,9 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 465 | [Optimal Account Balancing](https://leetcode.com/prooptimal-account-balancing) | :blue_book: | | Hard |
 | 466 | [Count The Repetitions](https://leetcode.com/procount-the-repetitions) | | | Hard |
 | 467 | [Unique Substrings in Wraparound String](https://leetcode.com/prounique-substrings-in-wraparound-string) | | | Medium |
+| 468 | [Validate IP Address](https://leetcode.com/provalidate-ip-address) | | | Medium |
 | 469 | [Convex Polygon](https://leetcode.com/proconvex-polygon) | :blue_book: | | Medium |
+| 471 | [Encode String with Shortest Length](https://leetcode.com/proencode-string-with-shortest-length) | :blue_book: | | Hard |
+| 474 | [Ones and Zeroes](https://leetcode.com/proones-and-zeroes) | | | Medium |
+| 475 | [Heaters](https://leetcode.com/proheaters) | | | Easy |
+| 476 | [Number Complement](https://leetcode.com/pronumber-complement) | | | Easy |
