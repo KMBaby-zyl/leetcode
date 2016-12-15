@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Wed Dec 14 2016 17:41:41 GMT+0800 (CST)
+Update time: Thu Dec 15 2016 15:42:47 GMT+0800 (CST)
 
-I have solved **63 / 438** problems while there are **80** problems still locked.
+I have solved **67 / 438** problems while there are **80** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -14,6 +14,10 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 279 | [Perfect Squares](https://leetcode.com/properfect-squares) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Perfect%20Squares/index.js) | | Medium |
 | 278 | [First Bad Version](https://leetcode.com/profirst-bad-version) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Bad%20Version/index.js) | | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/probinary-tree-paths) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/index.js) | | Easy |
+| 70 | [Climbing Stairs](https://leetcode.com/proclimbing-stairs) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Climbing%20Stairs/index.js) | | Easy |
+| 69 | [Sqrt(x)](https://leetcode.com/prosqrtx) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Sqrt(x)/index.js) | | Medium |
+| 68 | [Text Justification](https://leetcode.com/protext-justification) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Text%20Justification/index.js) | | Hard |
+| 67 | [Add Binary](https://leetcode.com/proadd-binary) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Add%20Binary/index.js) | | Easy |
 | 66 | [Plus One](https://leetcode.com/proplus-one) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Plus%20One/index.js) | | Easy |
 | 65 | [Valid Number](https://leetcode.com/provalid-number) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Valid%20Number/index.js) | | Hard |
 | 64 | [Minimum Path Sum](https://leetcode.com/prominimum-path-sum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Minimum%20Path%20Sum/index.js) | | Medium |
@@ -80,10 +84,6 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 51 | [N-Queens](https://leetcode.com/pron-queens) | | | Hard |
 | 52 | [N-Queens II](https://leetcode.com/pron-queens-ii) | | | Hard |
 | 59 | [Spiral Matrix II](https://leetcode.com/prospiral-matrix-ii) | | | Medium |
-| 67 | [Add Binary](https://leetcode.com/proadd-binary) | | | Easy |
-| 68 | [Text Justification](https://leetcode.com/protext-justification) | | | Hard |
-| 69 | [Sqrt(x)](https://leetcode.com/prosqrtx) | | | Medium |
-| 70 | [Climbing Stairs](https://leetcode.com/proclimbing-stairs) | | | Easy |
 | 71 | [Simplify Path](https://leetcode.com/prosimplify-path) | | | Medium |
 | 72 | [Edit Distance](https://leetcode.com/proedit-distance) | | | Hard |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/proset-matrix-zeroes) | | | Medium |
