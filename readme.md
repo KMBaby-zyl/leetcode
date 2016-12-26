@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Thu Dec 15 2016 15:42:47 GMT+0800 (CST)
+Update time: Mon Dec 26 2016 10:27:20 GMT+0800 (CST)
 
-I have solved **67 / 438** problems while there are **80** problems still locked.
+I have solved **82 / 448** problems while there are **80** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -14,6 +14,21 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 279 | [Perfect Squares](https://leetcode.com/properfect-squares) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Perfect%20Squares/index.js) | | Medium |
 | 278 | [First Bad Version](https://leetcode.com/profirst-bad-version) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Bad%20Version/index.js) | | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/probinary-tree-paths) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/index.js) | | Easy |
+| 148 | [Sort List](https://leetcode.com/prosort-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Sort%20List/index.js) | | Medium |
+| 147 | [Insertion Sort List](https://leetcode.com/proinsertion-sort-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Insertion%20Sort%20List/index.js) | | Medium |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/proremove-duplicates-from-sorted-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20List/index.js) | | Easy |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/proremove-duplicates-from-sorted-list-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20List%20II/index.js) | | Medium |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/prosearch-in-rotated-sorted-array-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Search%20in%20Rotated%20Sorted%20Array%20II/index.js) | | Medium |
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/proremove-duplicates-from-sorted-array-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20Array%20II/index.js) | | Medium |
+| 79 | [Word Search](https://leetcode.com/proword-search) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Word%20Search/index.js) | | Medium |
+| 78 | [Subsets](https://leetcode.com/prosubsets) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Subsets/index.js) | | Medium |
+| 77 | [Combinations](https://leetcode.com/procombinations) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Combinations/index.js) | | Medium |
+| 76 | [Minimum Window Substring](https://leetcode.com/prominimum-window-substring) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Minimum%20Window%20Substring/index.js) | | Hard |
+| 75 | [Sort Colors](https://leetcode.com/prosort-colors) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Sort%20Colors/index.js) | | Medium |
+| 74 | [Search a 2D Matrix](https://leetcode.com/prosearch-a-2d-matrix) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Search%20a%202D%20Matrix/index.js) | | Medium |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/proset-matrix-zeroes) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Set%20Matrix%20Zeroes/index.js) | | Medium |
+| 72 | [Edit Distance](https://leetcode.com/proedit-distance) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Edit%20Distance/index.js) | | Hard |
+| 71 | [Simplify Path](https://leetcode.com/prosimplify-path) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Simplify%20Path/index.js) | | Medium |
 | 70 | [Climbing Stairs](https://leetcode.com/proclimbing-stairs) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Climbing%20Stairs/index.js) | | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/prosqrtx) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Sqrt(x)/index.js) | | Medium |
 | 68 | [Text Justification](https://leetcode.com/protext-justification) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Text%20Justification/index.js) | | Hard |
@@ -84,19 +99,6 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 51 | [N-Queens](https://leetcode.com/pron-queens) | | | Hard |
 | 52 | [N-Queens II](https://leetcode.com/pron-queens-ii) | | | Hard |
 | 59 | [Spiral Matrix II](https://leetcode.com/prospiral-matrix-ii) | | | Medium |
-| 71 | [Simplify Path](https://leetcode.com/prosimplify-path) | | | Medium |
-| 72 | [Edit Distance](https://leetcode.com/proedit-distance) | | | Hard |
-| 73 | [Set Matrix Zeroes](https://leetcode.com/proset-matrix-zeroes) | | | Medium |
-| 74 | [Search a 2D Matrix](https://leetcode.com/prosearch-a-2d-matrix) | | | Medium |
-| 75 | [Sort Colors](https://leetcode.com/prosort-colors) | | | Medium |
-| 76 | [Minimum Window Substring](https://leetcode.com/prominimum-window-substring) | | | Hard |
-| 77 | [Combinations](https://leetcode.com/procombinations) | | | Medium |
-| 78 | [Subsets](https://leetcode.com/prosubsets) | | | Medium |
-| 79 | [Word Search](https://leetcode.com/proword-search) | | | Medium |
-| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/proremove-duplicates-from-sorted-array-ii) | | | Medium |
-| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/prosearch-in-rotated-sorted-array-ii) | | | Medium |
-| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/proremove-duplicates-from-sorted-list-ii) | | | Medium |
-| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/proremove-duplicates-from-sorted-list) | | | Easy |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/prolargest-rectangle-in-histogram) | | | Hard |
 | 85 | [Maximal Rectangle](https://leetcode.com/promaximal-rectangle) | | | Hard |
 | 86 | [Partition List](https://leetcode.com/propartition-list) | | | Medium |
@@ -160,8 +162,6 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/probinary-tree-preorder-traversal) | | | Medium |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/probinary-tree-postorder-traversal) | | | Hard |
 | 146 | [LRU Cache](https://leetcode.com/prolru-cache) | | | Hard |
-| 147 | [Insertion Sort List](https://leetcode.com/proinsertion-sort-list) | | | Medium |
-| 148 | [Sort List](https://leetcode.com/prosort-list) | | | Medium |
 | 149 | [Max Points on a Line](https://leetcode.com/promax-points-on-a-line) | | | Hard |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/proevaluate-reverse-polish-notation) | | | Medium |
 | 151 | [Reverse Words in a String](https://leetcode.com/proreverse-words-in-a-string) | | | Medium |
@@ -428,15 +428,22 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 439 | [Ternary Expression Parser](https://leetcode.com/proternary-expression-parser) | :blue_book: | | Medium |
 | 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/prok-th-smallest-in-lexicographical-order) | | | Hard |
 | 441 | [Arranging Coins](https://leetcode.com/proarranging-coins) | | | Easy |
+| 442 | [Find All Duplicates in an Array](https://leetcode.com/profind-all-duplicates-in-an-array) | | | Medium |
 | 444 | [Sequence Reconstruction](https://leetcode.com/prosequence-reconstruction) | :blue_book: | | Medium |
+| 445 | [Add Two Numbers II](https://leetcode.com/proadd-two-numbers-ii) | | | Medium |
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/proarithmetic-slices-ii-subsequence) | | | Hard |
 | 447 | [Number of Boomerangs](https://leetcode.com/pronumber-of-boomerangs) | | | Easy |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/profind-all-numbers-disappeared-in-an-array) | | | Easy |
+| 449 | [Serialize and Deserialize BST](https://leetcode.com/proserialize-and-deserialize-bst) | | | Medium |
+| 450 | [Delete Node in a BST](https://leetcode.com/prodelete-node-in-a-bst) | | | Medium |
+| 451 | [Sort Characters By Frequency](https://leetcode.com/prosort-characters-by-frequency) | | | Medium |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/prominimum-number-of-arrows-to-burst-balloons) | | | Medium |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/prominimum-moves-to-equal-array-elements) | | | Easy |
 | 454 | [4Sum II](https://leetcode.com/pro4sum-ii) | | | Medium |
 | 455 | [Assign Cookies](https://leetcode.com/proassign-cookies) | | | Easy |
 | 456 | [132 Pattern](https://leetcode.com/pro132-pattern) | | | Medium |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/prorepeated-substring-pattern) | | | Easy |
+| 461 | [Hamming Distance](https://leetcode.com/prohamming-distance) | | | Easy |
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/prominimum-moves-to-equal-array-elements-ii) | | | Medium |
 | 463 | [Island Perimeter](https://leetcode.com/proisland-perimeter) | | | Easy |
 | 464 | [Can I Win](https://leetcode.com/procan-i-win) | | | Medium |
@@ -446,6 +453,9 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 468 | [Validate IP Address](https://leetcode.com/provalidate-ip-address) | | | Medium |
 | 469 | [Convex Polygon](https://leetcode.com/proconvex-polygon) | :blue_book: | | Medium |
 | 471 | [Encode String with Shortest Length](https://leetcode.com/proencode-string-with-shortest-length) | :blue_book: | | Hard |
+| 472 | [Concatenated Words](https://leetcode.com/proconcatenated-words) | | | Hard |
+| 473 | [Matchsticks to Square](https://leetcode.com/promatchsticks-to-square) | | | Medium |
 | 474 | [Ones and Zeroes](https://leetcode.com/proones-and-zeroes) | | | Medium |
 | 475 | [Heaters](https://leetcode.com/proheaters) | | | Easy |
 | 476 | [Number Complement](https://leetcode.com/pronumber-complement) | | | Easy |
+| 477 | [Total Hamming Distance](https://leetcode.com/prototal-hamming-distance) | | | Medium |
