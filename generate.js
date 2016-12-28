@@ -125,6 +125,7 @@ function makeRequest() {
   superagent
     .get("https://leetcode.com/api/problems/algorithms/")
     .set("Cookie", "PHPSESSID=0utc3sivfytdjs0a8ffhya588oake1ym")  // for logining in
+    .set("Cookie", "LEETCODE_SESSION=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IktNQmFieS16eWwiLCJfYXV0aF91c2VyX2lkIjoiMjI5OTI0IiwidGltZXN0YW1wIjoiMjAxNi0xMi0yNyAwMjoxNTowMy44NTU2MTkrMDA6MDAiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhbGxhdXRoLmFjY291bnQuYXV0aF9iYWNrZW5kcy5BdXRoZW50aWNhdGlvbkJhY2tlbmQiLCJpZCI6MjI5OTI0LCJfYXV0aF91c2VyX2hhc2giOiJjYmNmYmJiMDc0NjhmOTc4OWE0ODdiMDU0Y2ZiZjk2NmRhNDM2MDg0IiwiZW1haWwiOiJ6aGFuZ3lpbGk5MTEyMjlAZ21haWwuY29tIn0.YQ0paYO-MeGGcI6Zo0MjPZcjD4-el6PH7uykmBpcHnw; _gat=1j")  // for logining in
     .end(function(err, res) {
         console.log('getdata');
 

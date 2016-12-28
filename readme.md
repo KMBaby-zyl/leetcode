@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Mon Dec 26 2016 10:27:20 GMT+0800 (CST)
+Update time: Wed Dec 28 2016 19:04:28 GMT+0800 (CST)
 
-I have solved **82 / 448** problems while there are **80** problems still locked.
+I have solved **100 / 448** problems while there are **80** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -14,8 +14,26 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 279 | [Perfect Squares](https://leetcode.com/properfect-squares) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Perfect%20Squares/index.js) | | Medium |
 | 278 | [First Bad Version](https://leetcode.com/profirst-bad-version) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Bad%20Version/index.js) | | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/probinary-tree-paths) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/index.js) | | Easy |
+| 206 | [Reverse Linked List](https://leetcode.com/proreverse-linked-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Reverse%20Linked%20List/index.js) | | Easy |
 | 148 | [Sort List](https://leetcode.com/prosort-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Sort%20List/index.js) | | Medium |
 | 147 | [Insertion Sort List](https://leetcode.com/proinsertion-sort-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Insertion%20Sort%20List/index.js) | | Medium |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/probinary-tree-level-order-traversal) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Level%20Order%20Traversal/index.js) | | Easy |
+| 101 | [Symmetric Tree](https://leetcode.com/prosymmetric-tree) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Symmetric%20Tree/index.js) | | Easy |
+| 100 | [Same Tree](https://leetcode.com/prosame-tree) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Same%20Tree/index.js) | | Easy |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/provalidate-binary-search-tree) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Validate%20Binary%20Search%20Tree/index.js) | | Medium |
+| 97 | [Interleaving String](https://leetcode.com/prointerleaving-string) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Interleaving%20String/index.js) | | Hard |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/prounique-binary-search-trees) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Unique%20Binary%20Search%20Trees/index.js) | | Medium |
+| 95 | [Unique Binary Search Trees II](https://leetcode.com/prounique-binary-search-trees-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Unique%20Binary%20Search%20Trees%20II/index.js) | | Medium |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/probinary-tree-inorder-traversal) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Inorder%20Traversal/index.js) | | Medium |
+| 93 | [Restore IP Addresses](https://leetcode.com/prorestore-ip-addresses) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Restore%20IP%20Addresses/index.js) | | Medium |
+| 92 | [Reverse Linked List II](https://leetcode.com/proreverse-linked-list-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Reverse%20Linked%20List%20II/index.js) | | Medium |
+| 91 | [Decode Ways](https://leetcode.com/prodecode-ways) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Decode%20Ways/index.js) | | Medium |
+| 90 | [Subsets II](https://leetcode.com/prosubsets-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Subsets%20II/index.js) | | Medium |
+| 89 | [Gray Code](https://leetcode.com/progray-code) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Gray%20Code/index.js) | [Explaination](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Gray%20Code/readme.md) | Medium |
+| 88 | [Merge Sorted Array](https://leetcode.com/promerge-sorted-array) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Merge%20Sorted%20Array/index.js) | | Easy |
+| 86 | [Partition List](https://leetcode.com/propartition-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Partition%20List/index.js) | | Medium |
+| 85 | [Maximal Rectangle](https://leetcode.com/promaximal-rectangle) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Maximal%20Rectangle/index.js) | | Hard |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/prolargest-rectangle-in-histogram) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Largest%20Rectangle%20in%20Histogram/index.js) | | Hard |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/proremove-duplicates-from-sorted-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20List/index.js) | | Easy |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/proremove-duplicates-from-sorted-list-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20List%20II/index.js) | | Medium |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/prosearch-in-rotated-sorted-array-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Search%20in%20Rotated%20Sorted%20Array%20II/index.js) | | Medium |
@@ -99,25 +117,8 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 51 | [N-Queens](https://leetcode.com/pron-queens) | | | Hard |
 | 52 | [N-Queens II](https://leetcode.com/pron-queens-ii) | | | Hard |
 | 59 | [Spiral Matrix II](https://leetcode.com/prospiral-matrix-ii) | | | Medium |
-| 84 | [Largest Rectangle in Histogram](https://leetcode.com/prolargest-rectangle-in-histogram) | | | Hard |
-| 85 | [Maximal Rectangle](https://leetcode.com/promaximal-rectangle) | | | Hard |
-| 86 | [Partition List](https://leetcode.com/propartition-list) | | | Medium |
 | 87 | [Scramble String](https://leetcode.com/proscramble-string) | | | Hard |
-| 88 | [Merge Sorted Array](https://leetcode.com/promerge-sorted-array) | | | Easy |
-| 89 | [Gray Code](https://leetcode.com/progray-code) | | | Medium |
-| 90 | [Subsets II](https://leetcode.com/prosubsets-ii) | | | Medium |
-| 91 | [Decode Ways](https://leetcode.com/prodecode-ways) | | | Medium |
-| 92 | [Reverse Linked List II](https://leetcode.com/proreverse-linked-list-ii) | | | Medium |
-| 93 | [Restore IP Addresses](https://leetcode.com/prorestore-ip-addresses) | | | Medium |
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/probinary-tree-inorder-traversal) | | | Medium |
-| 95 | [Unique Binary Search Trees II](https://leetcode.com/prounique-binary-search-trees-ii) | | | Medium |
-| 96 | [Unique Binary Search Trees](https://leetcode.com/prounique-binary-search-trees) | | | Medium |
-| 97 | [Interleaving String](https://leetcode.com/prointerleaving-string) | | | Hard |
-| 98 | [Validate Binary Search Tree](https://leetcode.com/provalidate-binary-search-tree) | | | Medium |
 | 99 | [Recover Binary Search Tree](https://leetcode.com/prorecover-binary-search-tree) | | | Hard |
-| 100 | [Same Tree](https://leetcode.com/prosame-tree) | | | Easy |
-| 101 | [Symmetric Tree](https://leetcode.com/prosymmetric-tree) | | | Easy |
-| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/probinary-tree-level-order-traversal) | | | Easy |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/probinary-tree-zigzag-level-order-traversal) | | | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/promaximum-depth-of-binary-tree) | | | Easy |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/proconstruct-binary-tree-from-preorder-and-inorder-traversal) | | | Medium |
@@ -203,7 +204,6 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 203 | [Remove Linked List Elements](https://leetcode.com/proremove-linked-list-elements) | | | Easy |
 | 204 | [Count Primes](https://leetcode.com/procount-primes) | | | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/proisomorphic-strings) | | | Easy |
-| 206 | [Reverse Linked List](https://leetcode.com/proreverse-linked-list) | | | Easy |
 | 207 | [Course Schedule](https://leetcode.com/procourse-schedule) | | | Medium |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/proimplement-trie-prefix-tree) | | | Medium |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/prominimum-size-subarray-sum) | | | Medium |
