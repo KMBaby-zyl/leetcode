@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Wed Dec 28 2016 19:04:28 GMT+0800 (CST)
+Update time: Sat Jan 07 2017 21:18:55 GMT+0800 (CST)
 
-I have solved **100 / 448** problems while there are **80** problems still locked.
+I have solved **121 / 448** problems while there are **80** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -17,6 +17,27 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 206 | [Reverse Linked List](https://leetcode.com/proreverse-linked-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Reverse%20Linked%20List/index.js) | | Easy |
 | 148 | [Sort List](https://leetcode.com/prosort-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Sort%20List/index.js) | | Medium |
 | 147 | [Insertion Sort List](https://leetcode.com/proinsertion-sort-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Insertion%20Sort%20List/index.js) | | Medium |
+| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/probest-time-to-buy-and-sell-stock-iii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/index.js) | | Hard |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/probest-time-to-buy-and-sell-stock-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/index.js) | | Medium |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/probest-time-to-buy-and-sell-stock) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock/index.js) | | Easy |
+| 120 | [Triangle](https://leetcode.com/protriangle) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Triangle/index.js) | | Medium |
+| 119 | [Pascal's Triangle II](https://leetcode.com/propascals-triangle-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Pascal's%20Triangle%20II/index.js) | | Easy |
+| 118 | [Pascal's Triangle](https://leetcode.com/propascals-triangle) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Pascal's%20Triangle/index.js) | | Easy |
+| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/propopulating-next-right-pointers-in-each-node-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/index.js) | | Hard |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/propopulating-next-right-pointers-in-each-node) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Populating%20Next%20Right%20Pointers%20in%20Each%20Node/index.js) | | Medium |
+| 115 | [Distinct Subsequences](https://leetcode.com/prodistinct-subsequences) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Distinct%20Subsequences/index.js) | | Hard |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/proflatten-binary-tree-to-linked-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Flatten%20Binary%20Tree%20to%20Linked%20List/index.js) | | Medium |
+| 113 | [Path Sum II](https://leetcode.com/propath-sum-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Path%20Sum%20II/index.js) | | Medium |
+| 112 | [Path Sum](https://leetcode.com/propath-sum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Path%20Sum/index.js) | | Easy |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/prominimum-depth-of-binary-tree) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Minimum%20Depth%20of%20Binary%20Tree/index.js) | | Easy |
+| 110 | [Balanced Binary Tree](https://leetcode.com/probalanced-binary-tree) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Balanced%20Binary%20Tree/index.js) | | Easy |
+| 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/proconvert-sorted-list-to-binary-search-tree) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/index.js) | | Medium |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/proconvert-sorted-array-to-binary-search-tree) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/index.js) | | Medium |
+| 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/probinary-tree-level-order-traversal-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Level%20Order%20Traversal%20II/index.js) | | Easy |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/proconstruct-binary-tree-from-inorder-and-postorder-traversal) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/index.js) | | Medium |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/proconstruct-binary-tree-from-preorder-and-inorder-traversal) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/index.js) | | Medium |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/promaximum-depth-of-binary-tree) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Maximum%20Depth%20of%20Binary%20Tree/index.js) | | Easy |
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/probinary-tree-zigzag-level-order-traversal) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/index.js) | | Medium |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/probinary-tree-level-order-traversal) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Level%20Order%20Traversal/index.js) | | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/prosymmetric-tree) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Symmetric%20Tree/index.js) | | Easy |
 | 100 | [Same Tree](https://leetcode.com/prosame-tree) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Same%20Tree/index.js) | | Easy |
@@ -119,27 +140,6 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 59 | [Spiral Matrix II](https://leetcode.com/prospiral-matrix-ii) | | | Medium |
 | 87 | [Scramble String](https://leetcode.com/proscramble-string) | | | Hard |
 | 99 | [Recover Binary Search Tree](https://leetcode.com/prorecover-binary-search-tree) | | | Hard |
-| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/probinary-tree-zigzag-level-order-traversal) | | | Medium |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/promaximum-depth-of-binary-tree) | | | Easy |
-| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/proconstruct-binary-tree-from-preorder-and-inorder-traversal) | | | Medium |
-| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/proconstruct-binary-tree-from-inorder-and-postorder-traversal) | | | Medium |
-| 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/probinary-tree-level-order-traversal-ii) | | | Easy |
-| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/proconvert-sorted-array-to-binary-search-tree) | | | Medium |
-| 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/proconvert-sorted-list-to-binary-search-tree) | | | Medium |
-| 110 | [Balanced Binary Tree](https://leetcode.com/probalanced-binary-tree) | | | Easy |
-| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/prominimum-depth-of-binary-tree) | | | Easy |
-| 112 | [Path Sum](https://leetcode.com/propath-sum) | | | Easy |
-| 113 | [Path Sum II](https://leetcode.com/propath-sum-ii) | | | Medium |
-| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/proflatten-binary-tree-to-linked-list) | | | Medium |
-| 115 | [Distinct Subsequences](https://leetcode.com/prodistinct-subsequences) | | | Hard |
-| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/propopulating-next-right-pointers-in-each-node) | | | Medium |
-| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/propopulating-next-right-pointers-in-each-node-ii) | | | Hard |
-| 118 | [Pascal's Triangle](https://leetcode.com/propascals-triangle) | | | Easy |
-| 119 | [Pascal's Triangle II](https://leetcode.com/propascals-triangle-ii) | | | Easy |
-| 120 | [Triangle](https://leetcode.com/protriangle) | | | Medium |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/probest-time-to-buy-and-sell-stock) | | | Easy |
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/probest-time-to-buy-and-sell-stock-ii) | | | Medium |
-| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/probest-time-to-buy-and-sell-stock-iii) | | | Hard |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/probinary-tree-maximum-path-sum) | | | Hard |
 | 125 | [Valid Palindrome](https://leetcode.com/provalid-palindrome) | | | Easy |
 | 126 | [Word Ladder II](https://leetcode.com/proword-ladder-ii) | | | Hard |
@@ -443,6 +443,7 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 455 | [Assign Cookies](https://leetcode.com/proassign-cookies) | | | Easy |
 | 456 | [132 Pattern](https://leetcode.com/pro132-pattern) | | | Medium |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/prorepeated-substring-pattern) | | | Easy |
+| 460 | [LFU Cache](https://leetcode.com/prolfu-cache) | | | Hard |
 | 461 | [Hamming Distance](https://leetcode.com/prohamming-distance) | | | Easy |
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/prominimum-moves-to-equal-array-elements-ii) | | | Medium |
 | 463 | [Island Perimeter](https://leetcode.com/proisland-perimeter) | | | Easy |
@@ -457,5 +458,4 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 473 | [Matchsticks to Square](https://leetcode.com/promatchsticks-to-square) | | | Medium |
 | 474 | [Ones and Zeroes](https://leetcode.com/proones-and-zeroes) | | | Medium |
 | 475 | [Heaters](https://leetcode.com/proheaters) | | | Easy |
-| 476 | [Number Complement](https://leetcode.com/pronumber-complement) | | | Easy |
 | 477 | [Total Hamming Distance](https://leetcode.com/prototal-hamming-distance) | | | Medium |
