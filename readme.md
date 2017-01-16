@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Sat Jan 07 2017 21:18:55 GMT+0800 (CST)
+Update time: Mon Jan 16 2017 15:34:52 GMT+0800 (CST)
 
-I have solved **121 / 448** problems while there are **80** problems still locked.
+I have solved **140 / 455** problems while there are **81** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -15,8 +15,27 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 278 | [First Bad Version](https://leetcode.com/profirst-bad-version) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Bad%20Version/index.js) | | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/probinary-tree-paths) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/index.js) | | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/proreverse-linked-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Reverse%20Linked%20List/index.js) | | Easy |
+| 151 | [Reverse Words in a String](https://leetcode.com/proreverse-words-in-a-string) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Reverse%20Words%20in%20a%20String/index.js) | | Medium |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/proevaluate-reverse-polish-notation) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Evaluate%20Reverse%20Polish%20Notation/index.js) | | Medium |
 | 148 | [Sort List](https://leetcode.com/prosort-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Sort%20List/index.js) | | Medium |
 | 147 | [Insertion Sort List](https://leetcode.com/proinsertion-sort-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Insertion%20Sort%20List/index.js) | | Medium |
+| 146 | [LRU Cache](https://leetcode.com/prolru-cache) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/LRU%20Cache/index.js) | | Hard |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/probinary-tree-postorder-traversal) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Postorder%20Traversal/index.js) | | Hard |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/probinary-tree-preorder-traversal) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Preorder%20Traversal/index.js) | | Medium |
+| 143 | [Reorder List](https://leetcode.com/proreorder-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Reorder%20List/index.js) | | Medium |
+| 142 | [Linked List Cycle II](https://leetcode.com/prolinked-list-cycle-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Linked%20List%20Cycle%20II/index.js) | | Medium |
+| 141 | [Linked List Cycle](https://leetcode.com/prolinked-list-cycle) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Linked%20List%20Cycle/index.js) | | Easy |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/procopy-list-with-random-pointer) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Copy%20List%20with%20Random%20Pointer/index.js) | | Hard |
+| 137 | [Single Number II](https://leetcode.com/prosingle-number-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Single%20Number%20II/index.js) | | Medium |
+| 136 | [Single Number](https://leetcode.com/prosingle-number) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Single%20Number/index.js) | [Explaination](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Single%20Number/readme.md) | Easy |
+| 135 | [Candy](https://leetcode.com/procandy) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Candy/index.js) | | Hard |
+| 134 | [Gas Station](https://leetcode.com/progas-station) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Gas%20Station/index.js) | | Medium |
+| 130 | [Surrounded Regions](https://leetcode.com/prosurrounded-regions) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Surrounded%20Regions/index.js) | [Explaination](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Surrounded%20Regions/readme.md) | Medium |
+| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/prosum-root-to-leaf-numbers) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Sum%20Root%20to%20Leaf%20Numbers/index.js) | | Medium |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/prolongest-consecutive-sequence) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Longest%20Consecutive%20Sequence/index.js) | | Hard |
+| 127 | [Word Ladder](https://leetcode.com/proword-ladder) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Word%20Ladder/index.js) | | Medium |
+| 125 | [Valid Palindrome](https://leetcode.com/provalid-palindrome) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Valid%20Palindrome/index.js) | | Easy |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/probinary-tree-maximum-path-sum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Maximum%20Path%20Sum/index.js) | | Hard |
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/probest-time-to-buy-and-sell-stock-iii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/index.js) | | Hard |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/probest-time-to-buy-and-sell-stock-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/index.js) | | Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/probest-time-to-buy-and-sell-stock) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock/index.js) | | Easy |
@@ -140,32 +159,13 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 59 | [Spiral Matrix II](https://leetcode.com/prospiral-matrix-ii) | | | Medium |
 | 87 | [Scramble String](https://leetcode.com/proscramble-string) | | | Hard |
 | 99 | [Recover Binary Search Tree](https://leetcode.com/prorecover-binary-search-tree) | | | Hard |
-| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/probinary-tree-maximum-path-sum) | | | Hard |
-| 125 | [Valid Palindrome](https://leetcode.com/provalid-palindrome) | | | Easy |
 | 126 | [Word Ladder II](https://leetcode.com/proword-ladder-ii) | | | Hard |
-| 127 | [Word Ladder](https://leetcode.com/proword-ladder) | | | Medium |
-| 128 | [Longest Consecutive Sequence](https://leetcode.com/prolongest-consecutive-sequence) | | | Hard |
-| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/prosum-root-to-leaf-numbers) | | | Medium |
-| 130 | [Surrounded Regions](https://leetcode.com/prosurrounded-regions) | | | Medium |
 | 131 | [Palindrome Partitioning](https://leetcode.com/propalindrome-partitioning) | | | Medium |
 | 132 | [Palindrome Partitioning II](https://leetcode.com/propalindrome-partitioning-ii) | | | Hard |
 | 133 | [Clone Graph](https://leetcode.com/proclone-graph) | | | Medium |
-| 134 | [Gas Station](https://leetcode.com/progas-station) | | | Medium |
-| 135 | [Candy](https://leetcode.com/procandy) | | | Hard |
-| 136 | [Single Number](https://leetcode.com/prosingle-number) | | | Easy |
-| 137 | [Single Number II](https://leetcode.com/prosingle-number-ii) | | | Medium |
-| 138 | [Copy List with Random Pointer](https://leetcode.com/procopy-list-with-random-pointer) | | | Hard |
 | 139 | [Word Break](https://leetcode.com/proword-break) | | | Medium |
 | 140 | [Word Break II](https://leetcode.com/proword-break-ii) | | | Hard |
-| 141 | [Linked List Cycle](https://leetcode.com/prolinked-list-cycle) | | | Easy |
-| 142 | [Linked List Cycle II](https://leetcode.com/prolinked-list-cycle-ii) | | | Medium |
-| 143 | [Reorder List](https://leetcode.com/proreorder-list) | | | Medium |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/probinary-tree-preorder-traversal) | | | Medium |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/probinary-tree-postorder-traversal) | | | Hard |
-| 146 | [LRU Cache](https://leetcode.com/prolru-cache) | | | Hard |
 | 149 | [Max Points on a Line](https://leetcode.com/promax-points-on-a-line) | | | Hard |
-| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/proevaluate-reverse-polish-notation) | | | Medium |
-| 151 | [Reverse Words in a String](https://leetcode.com/proreverse-words-in-a-string) | | | Medium |
 | 152 | [Maximum Product Subarray](https://leetcode.com/promaximum-product-subarray) | | | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/profind-minimum-in-rotated-sorted-array) | | | Medium |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/profind-minimum-in-rotated-sorted-array-ii) | | | Hard |
@@ -458,4 +458,11 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 473 | [Matchsticks to Square](https://leetcode.com/promatchsticks-to-square) | | | Medium |
 | 474 | [Ones and Zeroes](https://leetcode.com/proones-and-zeroes) | | | Medium |
 | 475 | [Heaters](https://leetcode.com/proheaters) | | | Easy |
+| 476 | [Number Complement](https://leetcode.com/pronumber-complement) | | | Easy |
 | 477 | [Total Hamming Distance](https://leetcode.com/prototal-hamming-distance) | | | Medium |
+| 480 | [Sliding Window Median](https://leetcode.com/prosliding-window-median) | | | Hard |
+| 481 | [Magical String](https://leetcode.com/promagical-string) | | | Medium |
+| 482 | [License Key Formatting](https://leetcode.com/prolicense-key-formatting) | | | Medium |
+| 485 | [Max Consecutive Ones](https://leetcode.com/promax-consecutive-ones) | | | Easy |
+| 487 | [Max Consecutive Ones II](https://leetcode.com/promax-consecutive-ones-ii) | :blue_book: | | Medium |
+| 488 | [Zuma Game](https://leetcode.com/prozuma-game) | | | Hard |
