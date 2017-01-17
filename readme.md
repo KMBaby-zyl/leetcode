@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Mon Jan 16 2017 15:34:52 GMT+0800 (CST)
+Update time: Tue Jan 17 2017 19:18:35 GMT+0800 (CST)
 
-I have solved **140 / 455** problems while there are **81** problems still locked.
+I have solved **152 / 455** problems while there are **81** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -15,6 +15,18 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 278 | [First Bad Version](https://leetcode.com/profirst-bad-version) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Bad%20Version/index.js) | | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/probinary-tree-paths) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/index.js) | | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/proreverse-linked-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Reverse%20Linked%20List/index.js) | | Easy |
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/profactorial-trailing-zeroes) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Factorial%20Trailing%20Zeroes/index.js) | | Easy |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/proexcel-sheet-column-number) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Excel%20Sheet%20Column%20Number/index.js) | | Easy |
+| 169 | [Majority Element](https://leetcode.com/promajority-element) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Majority%20Element/index.js) | | Easy |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/proexcel-sheet-column-title) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Excel%20Sheet%20Column%20Title/index.js) | | Easy |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/protwo-sum-ii-input-array-is-sorted) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Two%20Sum%20II%20-%20Input%20array%20is%20sorted/index.js) | | Medium |
+| 165 | [Compare Version Numbers](https://leetcode.com/procompare-version-numbers) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Compare%20Version%20Numbers/index.js) | | Easy |
+| 162 | [Find Peak Element](https://leetcode.com/profind-peak-element) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Find%20Peak%20Element/index.js) | | Medium |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/prointersection-of-two-linked-lists) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Intersection%20of%20Two%20Linked%20Lists/index.js) | | Easy |
+| 155 | [Min Stack](https://leetcode.com/promin-stack) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Min%20Stack/index.js) | | Easy |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/profind-minimum-in-rotated-sorted-array-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/index.js) | | Hard |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/profind-minimum-in-rotated-sorted-array) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Find%20Minimum%20in%20Rotated%20Sorted%20Array/index.js) | | Medium |
+| 152 | [Maximum Product Subarray](https://leetcode.com/promaximum-product-subarray) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Maximum%20Product%20Subarray/index.js) | | Medium |
 | 151 | [Reverse Words in a String](https://leetcode.com/proreverse-words-in-a-string) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Reverse%20Words%20in%20a%20String/index.js) | | Medium |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/proevaluate-reverse-polish-notation) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Evaluate%20Reverse%20Polish%20Notation/index.js) | | Medium |
 | 148 | [Sort List](https://leetcode.com/prosort-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Sort%20List/index.js) | | Medium |
@@ -166,27 +178,15 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 139 | [Word Break](https://leetcode.com/proword-break) | | | Medium |
 | 140 | [Word Break II](https://leetcode.com/proword-break-ii) | | | Hard |
 | 149 | [Max Points on a Line](https://leetcode.com/promax-points-on-a-line) | | | Hard |
-| 152 | [Maximum Product Subarray](https://leetcode.com/promaximum-product-subarray) | | | Medium |
-| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/profind-minimum-in-rotated-sorted-array) | | | Medium |
-| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/profind-minimum-in-rotated-sorted-array-ii) | | | Hard |
-| 155 | [Min Stack](https://leetcode.com/promin-stack) | | | Easy |
 | 156 | [Binary Tree Upside Down](https://leetcode.com/probinary-tree-upside-down) | :blue_book: | | Medium |
 | 157 | [Read N Characters Given Read4](https://leetcode.com/proread-n-characters-given-read4) | :blue_book: | | Easy |
 | 158 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/proread-n-characters-given-read4-ii-call-multiple-times) | :blue_book: | | Hard |
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/prolongest-substring-with-at-most-two-distinct-characters) | :blue_book: | | Hard |
-| 160 | [Intersection of Two Linked Lists](https://leetcode.com/prointersection-of-two-linked-lists) | | | Easy |
 | 161 | [One Edit Distance](https://leetcode.com/proone-edit-distance) | :blue_book: | | Medium |
-| 162 | [Find Peak Element](https://leetcode.com/profind-peak-element) | | | Medium |
 | 163 | [Missing Ranges](https://leetcode.com/promissing-ranges) | :blue_book: | | Medium |
 | 164 | [Maximum Gap](https://leetcode.com/promaximum-gap) | | | Hard |
-| 165 | [Compare Version Numbers](https://leetcode.com/procompare-version-numbers) | | | Easy |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/profraction-to-recurring-decimal) | | | Medium |
-| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/protwo-sum-ii-input-array-is-sorted) | | | Medium |
-| 168 | [Excel Sheet Column Title](https://leetcode.com/proexcel-sheet-column-title) | | | Easy |
-| 169 | [Majority Element](https://leetcode.com/promajority-element) | | | Easy |
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/protwo-sum-iii-data-structure-design) | :blue_book: | | Easy |
-| 171 | [Excel Sheet Column Number](https://leetcode.com/proexcel-sheet-column-number) | | | Easy |
-| 172 | [Factorial Trailing Zeroes](https://leetcode.com/profactorial-trailing-zeroes) | | | Easy |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/probinary-search-tree-iterator) | | | Medium |
 | 174 | [Dungeon Game](https://leetcode.com/produngeon-game) | | | Hard |
 | 179 | [Largest Number](https://leetcode.com/prolargest-number) | | | Medium |
