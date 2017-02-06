@@ -124,8 +124,8 @@ var DIFFICULT = {
 function makeRequest() {
   superagent
     .get("https://leetcode.com/api/problems/algorithms/")
-    .set("Cookie", "PHPSESSID=qhi3yzvood7qoksg6eqi28f3h9ngutg5")  // for logining in
-    .set("Cookie", "LEETCODE_SESSION=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IktNQmFieS16eWwiLCJfYXV0aF91c2VyX2lkIjoiMjI5OTI0IiwidGltZXN0YW1wIjoiMjAxNy0wMS0xMCAwMzoxOTo0MS4wNDcxODUrMDA6MDAiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhbGxhdXRoLmFjY291bnQuYXV0aF9iYWNrZW5kcy5BdXRoZW50aWNhdGlvbkJhY2tlbmQiLCJpZCI6MjI5OTI0LCJfYXV0aF91c2VyX2hhc2giOiJjYmNmYmJiMDc0NjhmOTc4OWE0ODdiMDU0Y2ZiZjk2NmRhNDM2MDg0IiwiZW1haWwiOiJ6aGFuZ3lpbGk5MTEyMjlAZ21haWwuY29tIn0.sIG9nP23_CLYU_ATwtpf9_YIAT75k2v6Vf5ESMrnmag")  // for logining in
+    //.set("Cookie", "PHPSESSID=")  // for logining in
+    .set("Cookie", "LEETCODE_SESSION=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IktNQmFieS16eWwiLCJ1c2VyX3NsdWciOiJrbWJhYnktenlsIiwiX2F1dGhfdXNlcl9pZCI6IjIyOTkyNCIsInRpbWVzdGFtcCI6IjIwMTctMDItMDUgMDg6Mjg6MjkuNDgzMzcwKzAwOjAwIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiYWxsYXV0aC5hY2NvdW50LmF1dGhfYmFja2VuZHMuQXV0aGVudGljYXRpb25CYWNrZW5kIiwiaWQiOjIyOTkyNCwiX2F1dGhfdXNlcl9oYXNoIjoiY2JjZmJiYjA3NDY4Zjk3ODlhNDg3YjA1NGNmYmY5NjZkYTQzNjA4NCIsImVtYWlsIjoiemhhbmd5aWxpOTExMjI5QGdtYWlsLmNvbSJ9.z5qR9APcdj6gh9Tt1-qIp6YtW3GenlRl5LA3PHMg9lU")  // for logining in
     .end(function(err, res) {
         console.log('getdata');
 
