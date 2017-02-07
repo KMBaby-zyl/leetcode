@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Mon Feb 06 2017 18:06:12 GMT+0800 (CST)
+Update time: Tue Feb 07 2017 15:34:14 GMT+0800 (CST)
 
-I have solved **170 / 470** problems while there are **85** problems still locked.
+I have solved **176 / 477** problems while there are **85** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -11,9 +11,15 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 
 | # | Title | Source Code | Explaination | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 337 | [House Robber III](https://leetcode.com/prohouse-robber-iii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/House%20Robber%20III/index.js) | | Medium |
 | 279 | [Perfect Squares](https://leetcode.com/properfect-squares) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Perfect%20Squares/index.js) | | Medium |
 | 278 | [First Bad Version](https://leetcode.com/profirst-bad-version) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Bad%20Version/index.js) | | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/probinary-tree-paths) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/index.js) | | Easy |
+| 220 | [Contains Duplicate III](https://leetcode.com/procontains-duplicate-iii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Contains%20Duplicate%20III/index.js) | | Medium |
+| 219 | [Contains Duplicate II](https://leetcode.com/procontains-duplicate-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Contains%20Duplicate%20II/index.js) | | Easy |
+| 217 | [Contains Duplicate](https://leetcode.com/procontains-duplicate) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Contains%20Duplicate/index.js) | | Easy |
+| 216 | [Combination Sum III](https://leetcode.com/procombination-sum-iii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Combination%20Sum%20III/index.js) | | Medium |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/prokth-largest-element-in-an-array) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Kth%20Largest%20Element%20in%20an%20Array/index.js) | | Medium |
 | 213 | [House Robber II](https://leetcode.com/prohouse-robber-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/House%20Robber%20II/index.js) | | Medium |
 | 212 | [Word Search II](https://leetcode.com/proword-search-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Word%20Search%20II/index.js) | | Hard |
 | 211 | [Add and Search Word - Data structure design](https://leetcode.com/proadd-and-search-word-data-structure-design) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Add%20and%20Search%20Word%20-%20Data%20structure%20design/index.js) | | Medium |
@@ -212,12 +218,7 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 207 | [Course Schedule](https://leetcode.com/procourse-schedule) | | | Medium |
 | 210 | [Course Schedule II](https://leetcode.com/procourse-schedule-ii) | | | Medium |
 | 214 | [Shortest Palindrome](https://leetcode.com/proshortest-palindrome) | | | Hard |
-| 215 | [Kth Largest Element in an Array](https://leetcode.com/prokth-largest-element-in-an-array) | | | Medium |
-| 216 | [Combination Sum III](https://leetcode.com/procombination-sum-iii) | | | Medium |
-| 217 | [Contains Duplicate](https://leetcode.com/procontains-duplicate) | | | Easy |
 | 218 | [The Skyline Problem](https://leetcode.com/prothe-skyline-problem) | | | Hard |
-| 219 | [Contains Duplicate II](https://leetcode.com/procontains-duplicate-ii) | | | Easy |
-| 220 | [Contains Duplicate III](https://leetcode.com/procontains-duplicate-iii) | | | Medium |
 | 221 | [Maximal Square](https://leetcode.com/promaximal-square) | | | Medium |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/procount-complete-tree-nodes) | | | Medium |
 | 223 | [Rectangle Area](https://leetcode.com/prorectangle-area) | | | Medium |
@@ -330,7 +331,6 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/proincreasing-triplet-subsequence) | | | Medium |
 | 335 | [Self Crossing](https://leetcode.com/proself-crossing) | | | Hard |
 | 336 | [Palindrome Pairs](https://leetcode.com/propalindrome-pairs) | | | Hard |
-| 337 | [House Robber III](https://leetcode.com/prohouse-robber-iii) | | | Medium |
 | 338 | [Counting Bits](https://leetcode.com/procounting-bits) | | | Medium |
 | 339 | [Nested List Weight Sum](https://leetcode.com/pronested-list-weight-sum) | :blue_book: | | Easy |
 | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/prolongest-substring-with-at-most-k-distinct-characters) | :blue_book: | | Hard |
@@ -474,9 +474,16 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 492 | [Construct the Rectangle](https://leetcode.com/proconstruct-the-rectangle) | | | Easy |
 | 494 | [Target Sum](https://leetcode.com/protarget-sum) | | | Medium |
 | 495 | [Teemo Attacking](https://leetcode.com/proteemo-attacking) | | | Medium |
+| 496 | [Next Greater Element I](https://leetcode.com/pronext-greater-element-i) | | | Easy |
+| 498 | [Diagonal Traverse](https://leetcode.com/prodiagonal-traverse) | | | Medium |
 | 499 | [The Maze III](https://leetcode.com/prothe-maze-iii) | :blue_book: | | Hard |
+| 500 | [Keyboard Row](https://leetcode.com/prokeyboard-row) | | | Easy |
 | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/profind-mode-in-binary-search-tree) | | | Easy |
+| 502 | [IPO](https://leetcode.com/proipo) | | | Hard |
+| 503 | [Next Greater Element II](https://leetcode.com/pronext-greater-element-ii) | | | Medium |
 | 505 | [The Maze II](https://leetcode.com/prothe-maze-ii) | :blue_book: | | Medium |
+| 506 | [Relative Ranks](https://leetcode.com/prorelative-ranks) | | | Easy |
+| 508 | [Most Frequent Subtree Sum](https://leetcode.com/promost-frequent-subtree-sum) | | | Medium |
 | 509 | [Points in Intervals](https://leetcode.com/propoints-in-intervals) | | | Easy |
 | 510 | [Design Logging](https://leetcode.com/prodesign-logging) | | | Easy |
 | 511 | [String Lengths Average and 95th Percentile](https://leetcode.com/prostring-lengths-average-and-95th-percentile) | | | Easy |
