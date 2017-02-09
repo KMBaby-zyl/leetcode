@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Tue Feb 07 2017 15:34:14 GMT+0800 (CST)
+Update time: Thu Feb 09 2017 18:26:55 GMT+0800 (CST)
 
-I have solved **176 / 477** problems while there are **85** problems still locked.
+I have solved **197 / 477** problems while there are **85** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -14,7 +14,28 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 337 | [House Robber III](https://leetcode.com/prohouse-robber-iii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/House%20Robber%20III/index.js) | | Medium |
 | 279 | [Perfect Squares](https://leetcode.com/properfect-squares) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Perfect%20Squares/index.js) | | Medium |
 | 278 | [First Bad Version](https://leetcode.com/profirst-bad-version) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Bad%20Version/index.js) | | Easy |
+| 264 | [Ugly Number II](https://leetcode.com/prougly-number-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Ugly%20Number%20II/index.js) | | Medium |
+| 263 | [Ugly Number](https://leetcode.com/prougly-number) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Ugly%20Number/index.js) | | Easy |
+| 260 | [Single Number III](https://leetcode.com/prosingle-number-iii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Single%20Number%20III/index.js) | | Medium |
+| 258 | [Add Digits](https://leetcode.com/proadd-digits) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Add%20Digits/index.js) | | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/probinary-tree-paths) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Binary%20Tree%20Paths/index.js) | | Easy |
+| 242 | [Valid Anagram](https://leetcode.com/provalid-anagram) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Valid%20Anagram/index.js) | | Easy |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/prosearch-a-2d-matrix-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Search%20a%202D%20Matrix%20II/index.js) | | Medium |
+| 239 | [Sliding Window Maximum](https://leetcode.com/prosliding-window-maximum) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Sliding%20Window%20Maximum/index.js) | | Hard |
+| 238 | [Product of Array Except Self](https://leetcode.com/proproduct-of-array-except-self) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Product%20of%20Array%20Except%20Self/index.js) | | Medium |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/prodelete-node-in-a-linked-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Delete%20Node%20in%20a%20Linked%20List/index.js) | | Easy |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/prolowest-common-ancestor-of-a-binary-tree) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/index.js) | | Medium |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/prolowest-common-ancestor-of-a-binary-search-tree) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/index.js) | | Easy |
+| 234 | [Palindrome Linked List](https://leetcode.com/propalindrome-linked-list) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Palindrome%20Linked%20List/index.js) | | Easy |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/proimplement-queue-using-stacks) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Implement%20Queue%20using%20Stacks/index.js) | | Easy |
+| 231 | [Power of Two](https://leetcode.com/propower-of-two) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Power%20of%20Two/index.js) | | Easy |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/prokth-smallest-element-in-a-bst) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Kth%20Smallest%20Element%20in%20a%20BST/index.js) | | Medium |
+| 229 | [Majority Element II](https://leetcode.com/promajority-element-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Majority%20Element%20II/index.js) | | Medium |
+| 228 | [Summary Ranges](https://leetcode.com/prosummary-ranges) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Summary%20Ranges/index.js) | | Medium |
+| 226 | [Invert Binary Tree](https://leetcode.com/proinvert-binary-tree) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Invert%20Binary%20Tree/index.js) | | Easy |
+| 225 | [Implement Stack using Queues](https://leetcode.com/proimplement-stack-using-queues) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Implement%20Stack%20using%20Queues/index.js) | | Easy |
+| 223 | [Rectangle Area](https://leetcode.com/prorectangle-area) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Rectangle%20Area/index.js) | | Medium |
+| 221 | [Maximal Square](https://leetcode.com/promaximal-square) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Maximal%20Square/index.js) | | Medium |
 | 220 | [Contains Duplicate III](https://leetcode.com/procontains-duplicate-iii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Contains%20Duplicate%20III/index.js) | | Medium |
 | 219 | [Contains Duplicate II](https://leetcode.com/procontains-duplicate-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Contains%20Duplicate%20II/index.js) | | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/procontains-duplicate) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Contains%20Duplicate/index.js) | | Easy |
@@ -219,28 +240,11 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 210 | [Course Schedule II](https://leetcode.com/procourse-schedule-ii) | | | Medium |
 | 214 | [Shortest Palindrome](https://leetcode.com/proshortest-palindrome) | | | Hard |
 | 218 | [The Skyline Problem](https://leetcode.com/prothe-skyline-problem) | | | Hard |
-| 221 | [Maximal Square](https://leetcode.com/promaximal-square) | | | Medium |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/procount-complete-tree-nodes) | | | Medium |
-| 223 | [Rectangle Area](https://leetcode.com/prorectangle-area) | | | Medium |
 | 224 | [Basic Calculator](https://leetcode.com/probasic-calculator) | | | Hard |
-| 225 | [Implement Stack using Queues](https://leetcode.com/proimplement-stack-using-queues) | | | Easy |
-| 226 | [Invert Binary Tree](https://leetcode.com/proinvert-binary-tree) | | | Easy |
 | 227 | [Basic Calculator II](https://leetcode.com/probasic-calculator-ii) | | | Medium |
-| 228 | [Summary Ranges](https://leetcode.com/prosummary-ranges) | | | Medium |
-| 229 | [Majority Element II](https://leetcode.com/promajority-element-ii) | | | Medium |
-| 230 | [Kth Smallest Element in a BST](https://leetcode.com/prokth-smallest-element-in-a-bst) | | | Medium |
-| 231 | [Power of Two](https://leetcode.com/propower-of-two) | | | Easy |
-| 232 | [Implement Queue using Stacks](https://leetcode.com/proimplement-queue-using-stacks) | | | Easy |
 | 233 | [Number of Digit One](https://leetcode.com/pronumber-of-digit-one) | | | Hard |
-| 234 | [Palindrome Linked List](https://leetcode.com/propalindrome-linked-list) | | | Easy |
-| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/prolowest-common-ancestor-of-a-binary-search-tree) | | | Easy |
-| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/prolowest-common-ancestor-of-a-binary-tree) | | | Medium |
-| 237 | [Delete Node in a Linked List](https://leetcode.com/prodelete-node-in-a-linked-list) | | | Easy |
-| 238 | [Product of Array Except Self](https://leetcode.com/proproduct-of-array-except-self) | | | Medium |
-| 239 | [Sliding Window Maximum](https://leetcode.com/prosliding-window-maximum) | | | Hard |
-| 240 | [Search a 2D Matrix II](https://leetcode.com/prosearch-a-2d-matrix-ii) | | | Medium |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/prodifferent-ways-to-add-parentheses) | | | Medium |
-| 242 | [Valid Anagram](https://leetcode.com/provalid-anagram) | | | Easy |
 | 243 | [Shortest Word Distance](https://leetcode.com/proshortest-word-distance) | :blue_book: | | Easy |
 | 244 | [Shortest Word Distance II](https://leetcode.com/proshortest-word-distance-ii) | :blue_book: | | Medium |
 | 245 | [Shortest Word Distance III](https://leetcode.com/proshortest-word-distance-iii) | :blue_book: | | Medium |
@@ -255,12 +259,8 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 254 | [Factor Combinations](https://leetcode.com/profactor-combinations) | :blue_book: | | Medium |
 | 255 | [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/proverify-preorder-sequence-in-binary-search-tree) | :blue_book: | | Medium |
 | 256 | [Paint House](https://leetcode.com/propaint-house) | :blue_book: | | Easy |
-| 258 | [Add Digits](https://leetcode.com/proadd-digits) | | | Easy |
 | 259 | [3Sum Smaller](https://leetcode.com/pro3sum-smaller) | :blue_book: | | Medium |
-| 260 | [Single Number III](https://leetcode.com/prosingle-number-iii) | | | Medium |
 | 261 | [Graph Valid Tree](https://leetcode.com/prograph-valid-tree) | :blue_book: | | Medium |
-| 263 | [Ugly Number](https://leetcode.com/prougly-number) | | | Easy |
-| 264 | [Ugly Number II](https://leetcode.com/prougly-number-ii) | | | Medium |
 | 265 | [Paint House II](https://leetcode.com/propaint-house-ii) | :blue_book: | | Hard |
 | 266 | [Palindrome Permutation](https://leetcode.com/propalindrome-permutation) | :blue_book: | | Easy |
 | 267 | [Palindrome Permutation II](https://leetcode.com/propalindrome-permutation-ii) | :blue_book: | | Medium |
