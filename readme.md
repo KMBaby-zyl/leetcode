@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with JavaScript
-Update time: Thu Feb 09 2017 18:26:55 GMT+0800 (CST)
+Update time: Mon Feb 13 2017 11:52:33 GMT+0800 (CST)
 
-I have solved **197 / 477** problems while there are **85** problems still locked.
+I have solved **200 / 478** problems while there are **85** problems still locked.
 
 If you have any question, please give me an [issue](https://github.com/KMBaby-zyl/leetcode/issues).
 
@@ -14,6 +14,9 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 337 | [House Robber III](https://leetcode.com/prohouse-robber-iii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/House%20Robber%20III/index.js) | | Medium |
 | 279 | [Perfect Squares](https://leetcode.com/properfect-squares) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Perfect%20Squares/index.js) | | Medium |
 | 278 | [First Bad Version](https://leetcode.com/profirst-bad-version) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/First%20Bad%20Version/index.js) | | Easy |
+| 275 | [H-Index II](https://leetcode.com/proh-index-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/H-Index%20II/index.js) | | Medium |
+| 274 | [H-Index](https://leetcode.com/proh-index) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/H-Index/index.js) | | Medium |
+| 268 | [Missing Number](https://leetcode.com/promissing-number) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Missing%20Number/index.js) | | Easy |
 | 264 | [Ugly Number II](https://leetcode.com/prougly-number-ii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Ugly%20Number%20II/index.js) | | Medium |
 | 263 | [Ugly Number](https://leetcode.com/prougly-number) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Ugly%20Number/index.js) | | Easy |
 | 260 | [Single Number III](https://leetcode.com/prosingle-number-iii) | [JavaScript](https://github.com/KMBaby-zyl/leetcode/blob/master/Algorithms/Single%20Number%20III/index.js) | | Medium |
@@ -264,14 +267,11 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 265 | [Paint House II](https://leetcode.com/propaint-house-ii) | :blue_book: | | Hard |
 | 266 | [Palindrome Permutation](https://leetcode.com/propalindrome-permutation) | :blue_book: | | Easy |
 | 267 | [Palindrome Permutation II](https://leetcode.com/propalindrome-permutation-ii) | :blue_book: | | Medium |
-| 268 | [Missing Number](https://leetcode.com/promissing-number) | | | Easy |
 | 269 | [Alien Dictionary](https://leetcode.com/proalien-dictionary) | :blue_book: | | Hard |
 | 270 | [Closest Binary Search Tree Value](https://leetcode.com/proclosest-binary-search-tree-value) | :blue_book: | | Easy |
 | 271 | [Encode and Decode Strings](https://leetcode.com/proencode-and-decode-strings) | :blue_book: | | Medium |
 | 272 | [Closest Binary Search Tree Value II](https://leetcode.com/proclosest-binary-search-tree-value-ii) | :blue_book: | | Hard |
 | 273 | [Integer to English Words](https://leetcode.com/prointeger-to-english-words) | | | Hard |
-| 274 | [H-Index](https://leetcode.com/proh-index) | | | Medium |
-| 275 | [H-Index II](https://leetcode.com/proh-index-ii) | | | Medium |
 | 276 | [Paint Fence](https://leetcode.com/propaint-fence) | :blue_book: | | Easy |
 | 277 | [Find the Celebrity](https://leetcode.com/profind-the-celebrity) | :blue_book: | | Medium |
 | 280 | [Wiggle Sort](https://leetcode.com/prowiggle-sort) | :blue_book: | | Medium |
@@ -488,3 +488,4 @@ If you are loving solving problems using JavaScript, please contact me to enjoy 
 | 510 | [Design Logging](https://leetcode.com/prodesign-logging) | | | Easy |
 | 511 | [String Lengths Average and 95th Percentile](https://leetcode.com/prostring-lengths-average-and-95th-percentile) | | | Easy |
 | 512 | [Price Query System](https://leetcode.com/proprice-query-system) | | | Easy |
+| 516 | [Longest Palindromic Subsequence](https://leetcode.com/prolongest-palindromic-subsequence) | | | Medium |
