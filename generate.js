@@ -6,6 +6,7 @@ var superagent = require("superagent");
 var cheerio = require("cheerio");
 var fs = require("fs");
 
+
 // collect items
 var ans = [];
 var solvedNum = 0;
